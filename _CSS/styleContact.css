@@ -1,0 +1,67 @@
+/* class*/
+
+.white{
+    padding:15px;
+    border: 2px solid #cccccc;
+    border-radius: 5px;
+    background: rgba(68, 68, 68, 0.5);
+    color : #ffffff;
+    margin-top:10px;
+    margin-bottom: 10px;
+    font-size:17px;
+
+}
+.white a{
+    color:#ffffff;
+}
+
+/*global*/
+
+.container{
+    width: 80%;
+    margin:auto;
+    overflow: hidden;
+}
+
+/* main */ 
+
+#main{
+    color:#ffffff;
+    background:url('../_Assets/Pictures/contact.jpg') no-repeat;
+    min-height: 1000px;
+}
+
+/* Article */
+
+article#main-col{
+    float:left;
+    width:60%;
+}
+
+article .page-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+article#main-col p{
+    min-height: 0px;
+}
+
+/*Sidebar*/
+
+aside#sidebar{
+    float: right;
+    width:30%;
+    margin-top:10px;
+}
+
+aside .sidebar-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+aside#sidebar p{
+    min-height: 0px;
+}
