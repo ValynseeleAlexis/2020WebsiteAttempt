@@ -1,2 +1,2 @@
 # WebsiteAttempt
-Trying to make a resume website 
+My first website ever
