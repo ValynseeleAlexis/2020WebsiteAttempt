@@ -1,2 +1,2 @@
-# 2020WebsiteAttempt
+# WebsiteAttempt
 Trying to make a resume website 
